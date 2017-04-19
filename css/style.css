@@ -1,0 +1,17 @@
+#header{
+    height: 500px;
+    background-color: #fc0;
+}
+
+#main{
+    height: 500px;
+    background-color: #fc0cf0;
+}
+#sub{
+    height: 500px;
+    background-color: #0cf;
+}
+#footer{
+    height: 500px;
+    background-color: #000;
+}
